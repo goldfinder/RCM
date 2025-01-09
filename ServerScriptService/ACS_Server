@@ -1,4 +1,4 @@
-local HttpService 	= game:GetService("HttpService")
+Script$local HttpService 	= game:GetService("HttpService")
 local PhysicsService= game:GetService("PhysicsService")
 local TS 			= game:GetService('TweenService')
 local Debris 		= game:GetService("Debris")
