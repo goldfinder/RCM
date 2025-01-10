@@ -1,10 +1,6 @@
-{
-  ["ServerScriptService"] = {
-    "ACS_Server",
-  },
-  ["ReplicatedStorage"] = {
-    ["Ammo Modules"] = {
-      "AmmoBox"
-    }
-  }
-}
+"ServerScriptService"
+-"ACS_Server"
+"ReplicatedStorage"
+-"ACS_Engine"
+--"Ammo Modules"
+---"AmmoBox"
